@@ -1,0 +1,57 @@
+[submodule "net-tools"]
+	path = net-tools
+	url = https://github.com/ecki/net-tools.git
+[submodule "cJSON"]
+	path = cJSON
+	url = https://github.com/DaveGamble/cJSON.git
+[submodule "jsmn"]
+	path = jsmn
+	url = https://github.com/zserge/jsmn.git
+[submodule "jsonrpc-c"]
+	path = jsonrpc-c
+	url = https://github.com/hmng/jsonrpc-c.git
+[submodule "paho.mqtt.embedded-c"]
+	path = paho.mqtt.embedded-c
+	url = https://github.com/eclipse/paho.mqtt.embedded-c.git
+[submodule "v4l-utils"]
+	path = v4l-utils
+	url = https://git.linuxtv.org/v4l-utils.git
+[submodule "FFmpeg"]
+	path = FFmpeg
+	url = https://github.com/FFmpeg/FFmpeg.git
+[submodule "x264"]
+	path = x264
+	url = https://github.com/mirror/x264.git
+[submodule "librtmp"]
+	path = librtmp
+	url = https://github.com/yixia/librtmp.git
+[submodule "librtsp"]
+	path = librtsp
+	url = https://github.com/ykst/librtsp.git
+[submodule "MD5"]
+	path = MD5
+	url = https://github.com/pod32g/MD5.git
+[submodule "libbcrypt"]
+	path = libbcrypt
+	url = https://github.com/rg3/libbcrypt.git
+[submodule "iniparser"]
+	path = iniparser
+	url = https://github.com/ndevilla/iniparser.git
+[submodule "zlib"]
+	path = zlib
+	url = https://github.com/madler/zlib.git
+[submodule "busybox"]
+	path = busybox
+	url = https://github.com/mirror/busybox.git
+[submodule "i2c-tools"]
+	path = i2c-tools
+	url = https://github.com/mozilla-b2g/i2c-tools.git
+[submodule "sqlite"]
+	path = sqlite
+	url = https://github.com/sqlite/sqlite.git
+[submodule "libutils-c"]
+	path = libutils-c
+	url = https://github.com/xinzsky/libutils-c.git
+[submodule "qt5-app"]
+	path = qt5-app
+	url = https://github.com/liefyuan/qt5-app
