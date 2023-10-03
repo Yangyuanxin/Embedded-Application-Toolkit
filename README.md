@@ -38,6 +38,7 @@
 ##### 六、图形图像
 
 - 1.Qt(http://download.qt.io/archive/qt/)
+- 2.LVGL(https://github.com/lvgl/lvgl)
 
 ##### 七、杂项
 
